@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">О НАС</string>
+    <string name="we_yuong_company">WE Yuong Company</string>
+    <string name="back">Back</string>
+    <string name="Menu">Меню</string>
+</resources>
